@@ -1,4 +1,5 @@
-repository: https://github.com/OtherStuffAI/in-dialogue
+release_source: https://github.com/OtherStuffAI/in-dialogue
+website: https://github.com/OtherStuffAI/in-dialogue
 name: In Dialogue
 summary: Private voice recording, offline transcripts and NStack delivery.
 description: >-
