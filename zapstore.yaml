@@ -1,0 +1,15 @@
+repository: https://github.com/OtherStuffAI/in-dialogue
+name: In Dialogue
+summary: Private voice recording, offline transcripts and NStack delivery.
+description: >-
+  In Dialogue is a native Android voice recorder. Keep a local recording library,
+  transcribe saved audio offline, review and correct your words, teach reusable
+  vocabulary, and optionally create a cleanup draft with a downloaded on-device
+  model. Import your own PIN-protected Nostr identity to deliver complete audio
+  and transcripts to an existing NStack workspace and channel. Automatic
+  delivery and local retention are opt-in. Installed-model inference has no
+  cloud fallback. The initial Android release includes English (US) speech;
+  optional cleanup needs additional model storage and memory.
+tags: [nostr, productivity, audio, privacy]
+supported_nips: ["01", "19", "98"]
+pubkey: npub1llwrq3rtah3rg3r2dyfyht55ek7aa0ey7z47ujju407pzfp38shqa7zcvr
