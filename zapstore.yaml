@@ -13,3 +13,4 @@ description: >-
 tags: [nostr, productivity, audio, privacy]
 supported_nips: ["01", "19", "98"]
 pubkey: npub1llwrq3rtah3rg3r2dyfyht55ek7aa0ey7z47ujju407pzfp38shqa7zcvr
+icon: ./icon.png
